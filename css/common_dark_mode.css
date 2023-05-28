@@ -1,0 +1,92 @@
+.dark .header-part .main-header{
+	background-color: #635555;
+}
+.dark .header-part .name-title{
+	color: #645656;
+}
+.dark .header-part .description-title{
+	color: #000;
+	text-shadow: #645656 1px 10px;
+}
+.dark .header-part .main-header.sticky{
+	background-color: #635555;
+}
+.dark .footer-part{
+	background: #635555;
+}
+.dark .main-part{
+	background: #806f6f;
+}
+.dark .main-products .prod-container .prod{
+	background: #806f6f;
+}
+.dark .main-products .prod-container .prod .content h3{
+	color: #fff;
+}
+.dark .main-products .prod-container .prod .content .data-add{
+	color: #fff;
+}
+.dark .main-products .prod-container .prod .content .buy-btn{
+	background: #413737;
+	color: #fff;
+}
+.dark .go-up-btn{
+	color: rgba(0, 0, 0, 0.7);
+  border: 1px solid rgba(20, 21, 17, 0.8);
+  background-color: rgba(27, 29, 21, 0.3);
+
+}
+.dark .header-part .main-header .a-title{
+	color: white;
+}
+.dark .header-part .main-header .active{
+	color: black;
+}
+.dark .footer-part .footer-menu-ul .foot-title
+{
+	color: white;
+}
+.dark .footer-part .footer-menu-ul .active
+{
+	color: black;
+}
+.dark .form-buy{
+	background-color: #8f6c6c;
+	border-radius: 50px;
+	border: #301f1e 3px solid;
+}
+.dark .reduce{
+	color: #fff;
+}
+.dark .form-container .counter input{
+	background: #523d3c;
+	color: #fff;
+}
+.dark .form-container .counter span{
+	color: #fff;
+}
+.dark h3{
+	color: #fff;
+}
+.dark .text-rad{
+	color: #fff;
+}
+.dark .form-container .form-buy-button{
+	background: #413737;
+	color: #fff;
+}
+.dark .form-container .form-comment{
+	background: #a39898;
+}
+.dark .popup{
+	background: #8f6c6c;
+	border: #301f1e 3px solid;
+}
+.dark .popup span, .dark .popup h2, .dark .popup p{
+	color: #fff;
+}
+.dark .popup button{
+	background: #413737;
+	color: #000;
+}
+
